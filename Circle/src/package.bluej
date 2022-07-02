@@ -1,0 +1,27 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=1260
+package.editor.height=524
+package.editor.width=1152
+package.editor.x=-324
+package.editor.y=97
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+readme.editor.height=680
+readme.editor.width=900
+readme.editor.x=0
+readme.editor.y=0
+target1.height=62
+target1.name=models
+target1.type=PackageTarget
+target1.width=80
+target1.x=10
+target1.y=90
+target2.height=62
+target2.name=main
+target2.type=PackageTarget
+target2.width=80
+target2.x=160
+target2.y=10
